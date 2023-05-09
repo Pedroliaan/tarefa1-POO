@@ -1,0 +1,5 @@
+nota1 = float(input("insira sua primeira nota:"))
+nota2 = float(input("insira sua segunda nota:"))
+nota3 = float(input("insira sua terceira nota:"))
+nota4 = float(input("insira sua quarta nota:"))
+print("sua média é: ", ((nota1*2)+(nota2*2)+(nota3*3)+(nota4*3))/10)
